@@ -104,7 +104,7 @@ Turn business questions into measurable KPIs:
 
 12. Screenshots / Demos
 
-![Zomato Dashboard Preview](
+![Zomato Dashboard Preview](https://github.com/subhakankhi12/Zomato-Dashboard/blob/main/Snapshot%20of%20the%20Dashbaord..png)
 
 ---
 
