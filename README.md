@@ -46,7 +46,7 @@ Key fields used: Restaurant, Country, City, Cuisine, Rating, Votes, Price, Table
  • Business Problem
 Restaurant platforms hold large amounts of data, but raw records alone don't show where restaurants are concentrated, how customers rate them, or how widely digital services are adopted.
 
-6. Key questions such as:**
+6. Key questions such as:
 - Where are restaurants concentrated?
 - Which cities and countries have the strongest restaurant presence?
 - What do ratings, votes and pricing say about customer experience?
@@ -55,14 +55,14 @@ Restaurant platforms hold large amounts of data, but raw records alone don't sho
 
 7. Goal of the Dashboard
  Turn business questions into measurable KPIs:
- 1. Measure scale: total restaurants, cities and countries.
- 2. Understand quality: average rating and rating distribution.
- 3. Understand demand: votes and restaurant concentration by city.
- 4.Understand pricing: average cost and price buckets.
- 5.Measure services: table booking and online delivery adoption.
- 6.Find preferences: top cuisines and restaurant categories.
+1. Measure scale: total restaurants, cities and countries.
+2. Understand quality: average rating and rating distribution.
+3. Understand demand: votes and restaurant concentration by city.
+4. Understand pricing: average cost and price buckets.
+5. Measure services: table booking and online delivery adoption.
+6. Find preferences: top cuisines and restaurant categories.
 
-9. Walkthrough of Key Visuals
+8. Walkthrough of Key Visuals
 - KPI Cards: 9,551 restaurants | 141 cities | 15 countries | 2.89 avg rating | 25.7% online delivery.
 - Restaurants by Country: shows market concentration across countries.
 - Restaurants by City: ranks cities by restaurant count, led by New Delhi, Gurgaon and Noida.
