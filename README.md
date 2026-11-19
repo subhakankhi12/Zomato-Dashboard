@@ -55,12 +55,12 @@ Restaurant platforms hold large amounts of data, but raw records alone don't sho
 
 7. Goal of the Dashboard
 Turn business questions into measurable KPIs:
-1. Measure scale: total restaurants, cities and countries.
-2. Understand quality: average rating and rating distribution.
-3. Understand demand: votes and restaurant concentration by city.
-4. Understand pricing: average cost and price buckets.
-5. Measure services: table booking and online delivery adoption.
-6. Find preferences: top cuisines and restaurant categories.
+ Measure scale: total restaurants, cities and countries.
+ Understand quality: average rating and rating distribution.
+ Understand demand: votes and restaurant concentration by city.
+ Understand pricing: average cost and price buckets.
+ Measure services: table booking and online delivery adoption.
+ Find preferences: top cuisines and restaurant categories.
 
 8. Walkthrough of Key Visuals
 - KPI Cards: 9,551 restaurants | 141 cities | 15 countries | 2.89 avg rating | 25.7% online delivery.
